@@ -7,10 +7,10 @@ public class App {
 		Logger logAsterisk = new AsteriskLogger();
 		Logger logSpace = new SpacedLogger();
 		
-		logAsterisk.log("Hello");
-		logAsterisk.error("Hello");
+		logAsterisk.log("hey");
+		logAsterisk.error("hi");
 		
-		logSpace.log("Hello");
+		logSpace.log("Ho");
 		logSpace.error("Hello");
 		
 	}
